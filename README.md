@@ -10,4 +10,4 @@ Created in Blender 3.5 and Godot 3.5
 
 ## Created By
 
-Jason Francis
+Noah Kintner
