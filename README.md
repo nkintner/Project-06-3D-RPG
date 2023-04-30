@@ -1,8 +1,7 @@
-# 3D-Character
+# Lutopia
 
-An animated 3D character that can be used in the 3D-RPG project
-
-Based on the [Kenney Character Assets](https://kenney.itch.io/kenney-character-assets) provided by kenney.nl. The model and animations were compiled in Blender and then imported into Godot.
+Project 06 for BL-MSCH-C220 at Indiana University Created 4/29/23
+Simple 3D RPG
 
 ## Implementation
 
