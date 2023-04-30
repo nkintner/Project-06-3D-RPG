@@ -6,7 +6,17 @@ Based on the [Kenney Character Assets](https://kenney.itch.io/kenney-character-a
 
 ## Implementation
 
-Created in Blender 3.5 and Godot 3.5
+- added music
+- 3D character skins on NPC and Player
+- Textures on Enemy
+- Texture on terrain 
+- Created in Blender 3.5 and Godot 3.5
+- added font
+
+## Refrences
+
+- Kenney was used for entire game
+- font is from dafont.come
 
 ## Created By
 
