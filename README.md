@@ -12,6 +12,7 @@ Simple 3D RPG
 - Texture on terrain 
 - Created in Blender 3.5 and Godot 3.5
 - added font
+- animations on character and NPC
 
 ## Refrences
 
